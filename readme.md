@@ -38,7 +38,7 @@ If you don't have cpanm and Carton installed, install them using the following c
 curl -L https://cpanmin.us | perl - --sudo App::cpanminus
 
 # Install Carton
-cpanm Carton
+sudo apt install carton
 ```
 
 ### Install Dependencies
