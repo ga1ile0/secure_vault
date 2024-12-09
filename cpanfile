@@ -1,0 +1,17 @@
+requires 'Crypt::CBC';
+requires 'Crypt::OpenSSL::AES';
+requires 'Crypt::OpenSSL::RSA';
+requires 'Crypt::PBKDF2';
+requires 'JSON';
+requires 'Crypt::OpenSSL::Guess';
+requires 'Crypt::Random';
+requires 'Digest::SHA';
+requires 'Digest::MD5';
+requires 'MIME::Base64';
+requires 'File::Basename';
+requires 'File::Spec';
+requires 'Getopt::Long';
+requires 'Data::Dumper';
+requires 'IO::Handle';
+requires 'strict';
+requires 'warnings';
